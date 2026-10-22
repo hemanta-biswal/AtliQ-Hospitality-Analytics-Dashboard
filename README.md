@@ -56,7 +56,9 @@ An interactive **3-page Power BI dashboard** analysing **1.71bn in hotel revenue
 | **2. Operational Metrics** | RevPAR, ADR, DSRN, realisation, revenue by category, and a property-level key metrics table |
 | **3. Property & Room Insights** | Ratings by property, booking share by room class and revenue by property |
 ## AtliQ Hospitality Analytics Dashboard
-!https://github.com/hemanta-biswal/AtliQ-Hospitality-Analytics-Dashboard/blob/main/AtliQ%20Hospitality%20Analytics%20Dashboard.png
+![Dashboard 2 -](https://github.com/hemanta-biswal/AtliQ-Hospitality-Analytics-Dashboard/blob/main/Home.png)
+## AtliQ Hospitality Performance Dashboard
+![Dashboard 3 - Home](https://github.com/hemanta-biswal/AtliQ-Hospitality-Analytics-Dashboard/blob/main/Home.png)
 ---
 
 ## 📐 Metric Definitions
