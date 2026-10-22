@@ -90,12 +90,10 @@ Filters available: city, property, status, platform, room class and month.
 
 ```
 ├── README.md
-├── AtliQ_Hospitality.pbix
-├── images/
-│   ├── dashboard-1-overview.png
-│   ├── dashboard-2-metrics.png
-│   └── dashboard-3-properties.png
-└── data/
+├── Hospitality Domain .pbix
+├── Home.png
+├── AtliQ Hospitality Performance Dashboard.png
+└── AtliQ Hospitality Analytics Dashboard.png
 ```
 
 ---
