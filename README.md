@@ -58,7 +58,7 @@ An interactive **3-page Power BI dashboard** analysing **1.71bn in hotel revenue
 ## AtliQ Hospitality Analytics Dashboard
 ![Dashboard 2 -](https://github.com/hemanta-biswal/AtliQ-Hospitality-Analytics-Dashboard/blob/main/AtliQ%20Hospitality%20Analytics%20Dashboard.png)
 ## AtliQ Hospitality Performance Dashboard
-![Dashboard 3 - Home](https://github.com/hemanta-biswal/AtliQ-Hospitality-Analytics-Dashboard/blob/main/Home.png)
+![Dashboard 3 - Home](https://github.com/hemanta-biswal/AtliQ-Hospitality-Analytics-Dashboard/blob/main/AtliQ%20Hospitality%20Performance%20Dashboard.png)
 ---
 
 ## 📐 Metric Definitions
