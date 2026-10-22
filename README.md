@@ -3,7 +3,7 @@
 An interactive **3-page Power BI dashboard** analysing **1.71bn in hotel revenue** across **Mumbai, Delhi, Bangalore and Hyderabad**, built as part of my learning with [Codebasics].
 
 🔗 **[View the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTk2NjY3ZWUtNDk4Yi00NzQ3LThhYTAtYzQ0MWE5MDVmZmVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
-
+## Home
 ![Dashboard 1 - Home](https://github.com/hemanta-biswal/AtliQ-Hospitality-Analytics-Dashboard/blob/main/Home.png)
 
 ---
